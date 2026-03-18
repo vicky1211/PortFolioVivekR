@@ -4,14 +4,14 @@ Personal portfolio website for Vivek Rakhonde, a Software Developer with 4+ year
 
 ## Live Demo
 
-Visit: [https://your-username.github.io/PortfolioRepo-main](https://your-username.github.io/PortfolioRepo-main)
+Visit: https://vicky1211.github.io/PortFolioVivekR/
 
 ## Features
 
 - Responsive design (mobile, tablet, desktop)
 - Modern UI with animations
 - Sections: Home, About, Services, Skills, Contact
-- Contact form
+- Contact formhttps://vicky1211.github.io/PortFolioVivekR/
 - Google Maps integration
 
 ## Technologies Used
